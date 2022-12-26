@@ -1,0 +1,1 @@
+- Domain Event vs Event Sourcing: https://www.innoq.com/en/blog/domain-events-versus-event-sourcing/
