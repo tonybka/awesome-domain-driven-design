@@ -3,10 +3,12 @@
 Reading list for people who loves and addicted to Domain-Driven Design (DDD)
 
 ## Concepts
-### Modeling & Design
+### Modeling & Strategic Design
 - [Context Mapping](/design/ContextMapping.md)
 - Event Storming
 - Event Sourcing
+- [Subdomain](/design/Subdomain.md)
+
 ### Layered Architect
 #### Application Layer
 - Data Transfer Object (DTO)
